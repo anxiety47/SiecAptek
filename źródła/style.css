@@ -1,0 +1,169 @@
+body {
+background:  #f7ead4;
+}
+
+tab {
+//width:96.5%;
+background-color: AliceBlue;
+}
+
+button {
+border:solid 1.5px black;
+border-radius: 4px;
+background-color:  #cce6ff ;
+cursor: pointer;
+padding: 2px 2px;
+font-size: 12px;
+margin: 6px;
+}
+
+tab button {
+border:none;
+background-color: inherit;
+cursor: pointer;
+padding: 15px 15px;
+font-size: 20px;
+}
+
+tab button:hover {
+background-color: #99ccff;
+}
+
+
+.tablinks {
+//margin-left: 30px;
+border-radius: 8px;
+border:solid 2px  #3366ff;
+background-color: white;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 15px;
+}
+
+.funkcjeSprzedaz button {
+background-color: #99ffdd;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+
+}
+
+.funkcjeMagazyn button {
+background-color: #ffff33;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+}
+
+.funkcjePracownicy button {
+background-color: #4db8ff;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+}
+
+.funkcjeDyzury button {
+background-color: #ff3333;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+}
+
+
+.funkcjeKlienci button {
+background-color: #9966ff;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+}
+
+
+.funkcjeStatystyki button {
+background-color: #ff3385;
+border: none;
+cursor: pointer;
+padding: 7px 7px;
+font-size: 12px;
+}
+
+
+#apteka {
+font-weight: bold;
+padding:10px;
+font-size:20px;
+}
+
+#sprzedaz {
+background-color: #e6fff7;
+}
+
+#magazyn {
+background-color: #ffffe6;
+}
+
+#pracownicy {
+background-color: #ccebff;
+}
+
+#dyzury {
+background-color: #ffcccc;
+}
+
+#klienci {
+background-color: #ccb3ff;
+}
+
+#statystyki {
+background-color: #ffcce0;
+
+}
+
+#idLeku {
+display: none;
+
+}
+
+div {
+overflow: auto;
+}
+
+table {  
+color: #333;
+font-family: Helvetica, Arial, sans-serif;
+width: 100%; 
+border-collapse: 
+collapse; border-spacing: 0; 
+}
+
+td, th {  
+border: 1px solid transparent; /* No more visible border */
+height: 30px; 
+transition: all 0.3s;  /* Simple transition for hover effect */
+}
+
+th {  
+background: transparent;
+color: black;
+font-weight: bold;
+}
+
+td {  
+background: #FAFAFA;
+text-align: center;
+}
+        
+tr:nth-child(even) td {
+//background: #F1F1F1; 
+background:#fefefe;
+}   
+      
+tr:nth-child(odd) td {
+background: transparent;
+}  
+
+  

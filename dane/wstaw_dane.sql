@@ -1,0 +1,10 @@
+﻿\i miasta.sql
+\i klienci.sql
+\i produkt.sql
+\i apteki.sql
+\i pracownicy.sql
+\i magazyn.sql
+\i dyzury.sql
+\i dyzur_pracownik.sql
+\i zamowienie.sql
+\i zamowienie_produkt.sql

@@ -1,0 +1,43 @@
+﻿--dane wstawione do tabeli 'produkt'
+--id_produktu,nazwa,ilość_w_opakowaniu,cena,postać,producent,czy_na_receptę
+INSERT INTO Produkt VALUES (DEFAULT, 'Ibuprom', 10, 12.53, 'tabletki', 'USP Zdrowie', false)
+INSERT INTO Produkt VALUES (DEFAULT, 'Captopril', 10, 6.19, 'tabletki','Polfarmex',true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Fervex', 8, 13.69, 'saszetki', 'UPSA', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Mucosolvan', 200, 12.49, 'syrop','Boehringer ingelheim', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Mucosolvan', 20, 13.99, 'tabletki','Boehringer ingelheim', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Allertec', 20, 11.99, 'tabletki','Polfa Warszawa', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Rutinoscorbin', 30, 3.99, 'tabletki','GSK', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Milurit', 50, 5.57, 'tabletki','Proterapia', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Yasmin', 21, 25.99, 'tabletki','Bayer', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Clatra', 30, 20.99, 'tabletki','Menarini', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Telfexo', 20, 17.49, 'tabletki','Polpharma S.A.', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Metafen zatoki', 20, 10.99, 'tabletki','Polpharma S.A.', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Fosidal', 150, 10.49, 'syrop','Polpharma S.A.', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Advantan', 15, 19.99, 'maść','Bayer', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Climara', 4, 18.65, 'plastry','Bayer', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Flegamina', 120, 10.99, 'syrop','Teva Pharmaceuticals Polska', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Flegamina', 20, 10.99, 'tabletki','Teva Pharmaceuticals Polska', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Flegamina', 30, 8.99, 'krople','Teva Pharmaceuticals Polska', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Tantum Verde', 30, 17.49, 'aerozol','Aziende Ch.Angelini', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Tantum Verde', 20, 12.99, 'pastylki','Delfarma', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Cerutin', 125, 7.49, 'tabletki','Polfarmex', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Calcium', 150, 7.99, 'syrop','Polfarmex', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Ranigast', 60, 8.53, 'tabletki','Polpharma S.A.', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Amoksiklav', 21, 25.99, 'tabletki','Sandoz', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Simvasterol', 28, 12.59, 'tabletki','Polpharma S.A.', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Simvasterol', 56, 22.89, 'tabletki','Polpharma S.A.', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Amlozek', 30, 15.53, 'tabletki','Adamed', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Ventolin', 20, 18.29, 'ampułki','GSK', true);
+INSERT INTO Produkt VALUES (DEFAULT, '4 Flex', 30, 59.99, 'saszetki','Polfa Rzeszów', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Dulcobis', 40, 14.49, 'tabletki','Boehringer ingelheim', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Supremin', 200, 13.99, 'syrop','Teva Pharmaceuticals Polska', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Septolette', 30, 9.99, 'pastylki','KRKA', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Emanera', 56, 25.99 , 'kapsułki','KRKA', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Letrox', 50, 5.99, 'tabletki','Berlin Chemie AG', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Polpril', 28, 15.99, 'kapsułki','Polpharma S.A.', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Alpragen', 30, 6.99, 'tabletki','Generics', true);
+INSERT INTO Produkt VALUES (DEFAULT, 'Esseliv', 40, 9.99, 'kapsułki','Aflofarm', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Xenna', 45, 25.99, 'tabletki','USP Zdrowie', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Xenna', 20, 7.99, 'zioła','USP Zdrowie', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Flavamed', 20, 13.99, 'tabletki','Berlin Chemie AG', false);
+INSERT INTO Produkt VALUES (DEFAULT, 'Flavamed', 100, 10.99, 'syrop','Berlin Chemie AG', false);
